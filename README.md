@@ -6,7 +6,7 @@
 
 ## Proje Videosu
 
-[![TradeMateAI Demo Video](https://img.youtube.com/vi/axkUW4vVXc8/0.jpg)](https://youtu.be/axkUW4vVXc8)
+[![TradeMateAI Demo Video](https://img.youtube.com/vi/f_0LFZbzBAk/0.jpg)](https://youtu.be/f_0LFZbzBAk)
 
 ---
 
