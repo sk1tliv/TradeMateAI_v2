@@ -1,4 +1,4 @@
-# TradeMate
+# TradeMateAI
 
 **TradeMate**, finansal veriler ve analizlere dayalı bir yatırım platformudur. Kullanıcılar döviz ve kripto para piyasaları hakkında bilgi alabilir, güvenli yatırım kararları verebilir ve finansal planlama hizmetlerine erişebilirler.
 
