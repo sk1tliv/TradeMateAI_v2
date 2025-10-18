@@ -4,6 +4,12 @@
 
 ---
 
+## Proje Videosu
+
+[![TradeMateAI Demo Video](https://img.youtube.com/vi/axkUW4vVXc8/0.jpg)](https://youtu.be/axkUW4vVXc8)
+
+---
+
 ## Özellikler
 
 **Piyasa Verileri:** EUR/TRY, USD/TRY ve XAU/TRY gibi popüler döviz çiftleri için gerçek zamanlı piyasa verileri sunar.
